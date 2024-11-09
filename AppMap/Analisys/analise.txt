@@ -1,0 +1,40 @@
+
+```json
+{
+    "resumo": "O projeto tem como objetivo desenvolver um script que gera arquivos PDF com informações extraídas de tutoriais disponíveis no YouTube. O script vai coletar e organizar dados úteis em um formato acessível, permitindo que usuários criem resumos ou guias rápidos para facilitar o aprendizado.",
+    "requisitos_funcionais": [
+        "O script deve ser capaz de acessar vídeos do YouTube através de APIs ou scraping.",
+        "Deve identificar e compilar imagens, textos e instruções a partir do conteúdo do vídeo.",
+        "Os dados extraídos devem ser estruturados em um PDF de forma lógica e clara.",
+        "O PDF final deve permitir fácil navegação e consulta das informações."
+    ],
+    "requisitos_nao_funcionais": [
+        "O sistema deve ser compatível com sistemas operacionais Windows e Linux.",
+        "A geração do PDF deve ocorrer em um tempo razoável, idealmente em menos de 5 minutos por vídeo.",
+        "A interface do usuário deve ser intuitiva e facilitar a operação do script."
+    ],
+    "dependencias": [
+        "A conclusão do levantamento de requisitos é necessária antes de seguir para a análise técnica."
+    ],
+    "marcos": [
+        "Marco 1: Conclusão do Levantamento de Requisitos (2024-01-13)",
+        "Marco 2: Conclusão da Análise Técnica (2024-01-17)",
+        "Marco 3: Início dos Testes e Validação (2024-02-08)",
+        "Marco 4: Entrega do Projeto (2024-02-17)"
+    ],
+    "recursos": [
+        "Equipe de Análise",
+        "Gerente de Projeto",
+        "Equipe de Desenvolvimento",
+        "Equipe de Testes",
+        "Equipe de Documentação",
+        "Linguagens de programação: Python, JavaScript.",
+        "Bibliotecas: pytube, OpenCV, FPDF/PDFKit."
+    ],
+    "riscos": [
+        "Dificuldades na extração de informações de tutoriais que utilizam muitos gráficos ou animações.",
+        "Possíveis restrições no acesso a vídeos específicas devido a configurações de privacidade no YouTube.",
+        "Desafios na formatação dos dados extraídos de forma que mantenham a clareza e coerência no PDF final."
+    ]
+}
+```
