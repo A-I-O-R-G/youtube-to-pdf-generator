@@ -1,0 +1,60 @@
+
+```json
+{
+  "planilha": {
+    "titulo": "Planilha do Projeto - Geração de Arquivos PDF a partir de Tutoriais do YouTube",
+    "descricao": "Esta planilha contém informações detalhadas sobre as etapas do projeto e seu progresso.",
+    "dados": [
+      {
+        "etapa": "Levantamento de Requisitos",
+        "descricao": "Coleta de requisitos necessários junto aos stakeholders para entender as necessidades do projeto.",
+        "status": "Concluído",
+        "responsavel": "Equipe de Análise",
+        "data_inicio": "2024-01-09",
+        "data_fim": "2024-01-13"
+      },
+      {
+        "etapa": "Análise Técnica",
+        "descricao": "Análise das tecnologias e metodologias a serem utilizadas no desenvolvimento do script.",
+        "status": "Concluído",
+        "responsavel": "Gerente de Projeto",
+        "data_inicio": "2024-01-14",
+        "data_fim": "2024-01-17"
+      },
+      {
+        "etapa": "Desenvolvimento do Script",
+        "descricao": "Desenvolvimento efetivo do script para extração e organização dos dados dos tutoriais do YouTube.",
+        "status": "Em Andamento",
+        "responsavel": "Equipe de Desenvolvimento",
+        "data_inicio": "2024-01-18",
+        "data_fim": "2024-02-07"
+      },
+      {
+        "etapa": "Testes e Validação",
+        "descricao": "Testar a funcionalidade do script para garantir que os requisitos estão sendo atendidos.",
+        "status": "Pendente",
+        "responsavel": "Equipe de Testes",
+        "data_inicio": "2024-02-08",
+        "data_fim": "2024-02-14"
+      },
+      {
+        "etapa": "Documentação",
+        "descricao": "Criação da documentação do projeto, incluindo instruções de uso e relatórios.",
+        "status": "Pendente",
+        "responsavel": "Equipe de Documentação",
+        "data_inicio": "2024-02-15",
+        "data_fim": "2024-02-16"
+      },
+      {
+        "etapa": "Entrega do Projeto",
+        "descricao": "Apresentação final do projeto e entrega de todos os materiais para avaliação.",
+        "status": "Pendente",
+        "responsavel": "Gerente de Projeto",
+        "data_inicio": "2024-02-17",
+        "data_fim": "2024-02-17"
+      }
+    ]
+  },
+  "nome_da_planilha": "Planilha do Projeto - Geração de Arquivos PDF a partir de Tutoriais do YouTube"
+}
+```
