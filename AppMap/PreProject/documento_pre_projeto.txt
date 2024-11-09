@@ -1,0 +1,46 @@
+
+```json
+{
+  "doc_Pre_Projeto": {
+    "titulo": "Geração de Arquivos PDF a partir de Tutoriais do YouTube",
+    "descricao": "Este projeto tem como objetivo desenvolver um script que gere arquivos PDF com informações extraídas de tutoriais disponíveis no YouTube. O script será capaz de coletar e organizar dados úteis em um formato acessível.",
+    "objetivos": [
+      "Extrair imagens e instruções passo a passo dos tutoriais.",
+      "Capturar textos de descrição e dicas exibidas na tela durante os vídeos.",
+      "Identificar e compilar elementos relevantes em um documento PDF organizado.",
+      "Criar um PDF que permita uma visualização clara e acessível das informações, facilitando o acompanhamento dos tutoriais."
+    ],
+    "requisitos": {
+      "funcionais": [
+        "O script deve ser capaz de acessar vídeos do YouTube através de APIs ou scraping.",
+        "Deve identificar e compilar imagens, textos e instruções a partir do conteúdo do vídeo.",
+        "Os dados extraídos devem ser estruturados em um PDF de forma lógica e clara.",
+        "O PDF final deve permitir fácil navegação e consulta das informações."
+      ],
+      "não_funcionais": [
+        "O sistema deve ser compatível com sistemas operacionais Windows e Linux.",
+        "A geração do PDF deve ocorrer em um tempo razoável, idealmente em menos de 5 minutos por vídeo.",
+        "A interface do usuário deve ser intuitiva e facilitar a operação do script."
+      ]
+    },
+    "público_alvo": "Usuários que desejam criar resumos ou guias rápidos a partir de tutoriais do YouTube, tornando o aprendizado mais eficiente e acessível.",
+    "tecnologias": [
+      "Linguagens de programação: Python, JavaScript.",
+      "Bibliotecas: pytube (ou similar para acesso ao YouTube), OpenCV, FPDF/PDFKit.",
+      "Formatos de saída: PDF."
+    ],
+    "cronograma": "A ser definido pelo Gerente de Projeto após análise deste documento.",
+    "risks": [
+      "Dificuldades na extração de informações de tutoriais que utilizam muitos gráficos ou animações.",
+      "Possíveis restrições no acesso a vídeos específicas devido a configurações de privacidade no YouTube.",
+      "Desafios na formatação dos dados extraídos de forma que mantenham a clareza e coerência no PDF final."
+    ]
+  }
+}
+```
+
+```json
+{
+  "name_doc_Pre_Projeto": "Pre-Projeto - Geração de Arquivos PDF a partir de Tutoriais do YouTube"
+}
+```
